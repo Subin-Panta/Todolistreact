@@ -11,6 +11,9 @@ function App() {
     
     <input type="checkbox"/>
     <p>placeholder</p>
+    
+    <input type="checkbox"/>
+    <p>placeholder</p>
     </div>
   )
 }
